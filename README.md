@@ -1,4 +1,4 @@
-# 2-dynamic-components
+# dynamic components example
 
 ## Project setup
 ```
